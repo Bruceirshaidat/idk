@@ -1,6 +1,4 @@
-
-
-from re import I
+#turtle test_project 
 from turtle import *
 
 colors=["purple","yellow","green","red"]
